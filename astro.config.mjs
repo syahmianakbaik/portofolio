@@ -13,5 +13,8 @@ export default defineConfig({
     vite: {
         plugins: [tailwindcss()]
     },
-    integrations: [mdx(), sitemap()]
+    integrations: [mdx(), sitemap()],
+    experimental: {
+        session: true,
+    },
 });
