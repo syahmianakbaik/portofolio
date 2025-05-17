@@ -11,4 +11,4 @@ _Email:_
 Feel free to drop me an email at [fsyahmi527@gmail.com](mailto:fsyahmi527@gmail.com), and I'll do my best to respond as soon as possible.
 
 _Social Media:_
-Connect with me on social media as well. Find me on [Instagram](https://www.instagram.com/f_zanss_/) or [LinkedIn](https://www.linkedin.com/).
+Connect with me on social media as well. Find me on [Instagram](https://www.instagram.com/f_zanss_/) or [LinkedIn](https://www.linkedin.com/in/zanss-undefined-184a5130b/).
